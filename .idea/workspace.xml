@@ -21,6 +21,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VY0Js0yXLXa1Ac946cGfotHvjI" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -118,7 +121,7 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <configuration name="demo1003" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo1003" TARGET_NAME="demo1003" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo1003" RUN_TARGET_NAME="demo1003">
+    <configuration name="demo1003" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT1003" TARGET_NAME="demo1003" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PAT1003" RUN_TARGET_NAME="demo1003">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
